@@ -1,3 +1,10 @@
-.block {
+.promo {
     color: blue;
 }
+.title:hover {
+    color: #000;    
+}
+
+
+
+
